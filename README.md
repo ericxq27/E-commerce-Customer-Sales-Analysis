@@ -86,3 +86,7 @@ Based on the customer segmentation results, the following targeted marketing str
 * **For Potential Customers:** Nurture their purchasing habits with welcome offers, loyalty points, and personalized recommendations to increase their frequency.
 * **For At-Risk Customers:** Launch targeted re-engagement campaigns with special promotions or personalized outreach to win them back.
 * **For Lost Customers:** Can be used as a sample for churn analysis to understand reasons for leaving, helping to reduce future churn.
+
+## 7. Dashboard
+![page1](https://github.com/ericxq27/E-commerce-Customer-Sales-Analysis/blob/main/Images/Dashboard-page-1.jpeg)
+![page2](https://github.com/ericxq27/E-commerce-Customer-Sales-Analysis/blob/main/Images/Dashboard-page-2.jpeg)
